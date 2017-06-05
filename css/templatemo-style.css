@@ -15,6 +15,7 @@ body
 		  font-weight: 400;
 	}
 
+
 /* start all section */
 #home,
 #home .fp-slide,
@@ -171,7 +172,7 @@ h1,h2,h3,h4,h5
 /* start home */       
 #home
 	{
-        background: url('../images/home-bg.jpg');
+        background: url('../images/home-bg.jpeg');
         background-size: cover;
         background-repeat: no-repeat;
         padding-top: 120px;
